@@ -1,0 +1,24 @@
+{
+  "name": "tweetshot",
+  "version": "1.0.0",
+  "description": "Online Tweet Screenshot capturing tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramajd/tweetshot.git"
+  },
+  "keywords": [
+    "twitter",
+    "screenshot",
+    "nodejs"
+  ],
+  "author": "Reza Alizadeh Majd",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ramajd/tweetshot/issues"
+  },
+  "homepage": "https://github.com/ramajd/tweetshot#readme"
+}
